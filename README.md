@@ -9,7 +9,7 @@
 - [My code](#codes)
   - [HTML](#HTML)
   - [CSS](#CSS)
-  - [Javascript](#javascript)
+  - [Javascript](#Js)
 - [Process](#process)
   - [Designed](#designed)
   - [Learned](#learned)
@@ -31,4 +31,35 @@
 ### HTML
 
 <p>Code HTML</p>
-<img align="center" src=""
+<img align="center" src="project_image/Tela HTML.png" width="900px"/>
+
+### CSS
+
+<p>Code CSS</p>
+<img align="center" src="project_image/Tela CSS.png" width="900px"/>
+
+### Js
+
+<p>Code Javascript</p>
+<img align="center" src="project_image/Tela Js.png" width="900px"/>
+
+## process
+
+### designed
+
+- Semantic HTML;
+- CSS Priorities;
+- Javascript Game;
+- Javascript Functions.
+
+### learned
+
+🟢 Javascript Game; <br>
+
+## autor
+
+### autor
+[![linkedin Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickcaramico)](https://www.linkedin.com/in/patrickcaramico/)
+[![Twitter Badge](https://img.shields.io/badge/Caramico%20Patrick-0077B5?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/CaramicoPatrick)](https://twitter.com/CaramicoPatrick)
+[![GitHub Badge](https://img.shields.io/badge/Patrick%20Caramico-0077B5?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/PatrickCaramico)](https://github.com/PatrickCaramico)
+
