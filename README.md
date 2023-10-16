@@ -54,7 +54,7 @@
 
 ### learned
 
-🟢 Javascript Game; <br>
+🟢 Javascript Game. <br>
 
 ## autor
 
