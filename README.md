@@ -28,8 +28,6 @@
 
 ## My codes
 
-### codes
-
 ### HTML
 
 <p>Code HTML</p>
