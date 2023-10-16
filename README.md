@@ -1,6 +1,6 @@
 # Project_MarioBros
 
-<p>Jogo Simples do Super Mario Bros</p>
+<p>Simple Super Mario Bros Games</p>
 
 ## Readme Contents:
 - [Summary](#summary)
@@ -20,7 +20,7 @@
 
 ### about
 
-<p>Projeto Simples de jogo do Super Mario Bros, baseado no jogo do Dino no Google, utilizando HTML, CSS e Javascript, com sons de game over e tela de inicio.</p>
+<p>Simple project of Super Mario Bros game, based on the Dino game on Google, using HTML, CSS, and Javascript, with game over sounds and a start screen. </p>
 
 ### screenshot
 
